@@ -1,0 +1,2 @@
+# qlsyntax
+VSC QuakeLive Syntax
